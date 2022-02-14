@@ -17,6 +17,6 @@ https://cameronstroup.github.io/Horiseon-Search-Engine-Optimization/
 
 ## Contribution
 
-Made with ❤️ by [Cameron Stroup]
+Made with ❤️ by Cameron Stroup
 
 ### ©️2019 Horiseon Social Solution Services, Inc
